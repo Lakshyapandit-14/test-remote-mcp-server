@@ -15,7 +15,7 @@ def add(a: int, b: int) -> int:
 
 
 def main():
-    print("Hello from expence-tracker-mcp-server!")
+    print("Hello from test - remote - server !")
 
 
 if __name__ == "__main__":
